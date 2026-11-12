@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    /* Parte 6: para usar una imagen de fondo, crea la carpeta
+       polls/static/polls/images/ y poné ahí un archivo background.png.
+       Después descomenta la línea siguiente.
+       (Ruta relativa al CSS, no hace falta {% static %}.) */
+    /* background: white url("images/background.png") no-repeat; */
+    background: white;
+}

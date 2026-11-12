@@ -1,0 +1,4 @@
+Django>=6.0,<6.1
+
+# Parte 8 del tutorial (opcional): paquete de terceros para depurar
+# django-debug-toolbar
